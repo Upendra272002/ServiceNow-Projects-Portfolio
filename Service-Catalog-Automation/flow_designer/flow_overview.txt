@@ -1,0 +1,6 @@
+Flow Designer used for:
+
+- Approval process  
+- Task creation  
+- Notifications  
+- Automation of request lifecycle 
